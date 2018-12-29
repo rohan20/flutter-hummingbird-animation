@@ -1,8 +1,6 @@
-# hummingbird_animation
+# Flutter-Hummingbird Animation using Flare
 
-A new Flutter project.
+Flare Project: https://www.2dimensions.com/a/rohantaneja/files/flare/hummingbird/preview
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+# Demo
+![Demo](https://github.com/rohan20/flutter-hummingbird-animation/blob/master/demo.gif)
