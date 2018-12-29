@@ -82,15 +82,16 @@ class _MyAppState extends State<MyApp> with TickerProviderStateMixin {
           text: TextSpan(
             text: _textOne,
             style: TextStyle(
+              fontFamily: 'Poppins',
               color: Colors.black,
-              fontSize: 36.0,
+              fontSize: 40.0,
             ),
             children: [
               TextSpan(
                 text: _textTwo,
                 style: TextStyle(
                   color: Colors.white,
-                  fontSize: 36.0,
+                  fontSize: 40.0,
                 ),
               ),
             ],
